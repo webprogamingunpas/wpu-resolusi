@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Erlangga dari Kudus
+
+Resolusi saya :
+- Membuat website menggunakan framework Javascript
+- Bekerja di start-up sebagai web development
