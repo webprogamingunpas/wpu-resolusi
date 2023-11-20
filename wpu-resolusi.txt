@@ -1,6 +1,3 @@
-WPU RESOLUSI
--membuat vidio 2x seminggu
--platform pengelolaan vidio
--forum diskusi
--vlogs
--kolaborasi
+MY RESOLUSI
+-membuat web app yang bermanfaat bagi banyak orang 
+-membuat tim untuk pengembangan nya
