@@ -1,0 +1,5 @@
+Halo pak, saya baru belajar git . 
+
+Resolusi saya 
+- membuat website menggunakan framework javascript 
+- S2
