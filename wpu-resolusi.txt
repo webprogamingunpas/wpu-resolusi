@@ -4,3 +4,6 @@ WPU RESOLUSI
 -forum diskusi
 -vlogs
 -kolaborasi
+- java
+- python
+- gui project
