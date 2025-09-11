@@ -1,0 +1,4 @@
+ini fitur
+-memasak
+-mencuci
+-menggirang
