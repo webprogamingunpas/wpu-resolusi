@@ -1,6 +1,14 @@
-RENCANA KONTEN
+RENCANA KONTEN WPU
 
--JS
--PHP FRAME
--INTERVIEWS
--VLOGS
+-Javascript
+* ES6
+* Frame work
+^ Vue
+^ React
+^ Angular
+- Struktur Data Dasar
+- PHP FRAME
+^ Laravel
+- INTERVIEWS
+- VLOGS
+- Python
